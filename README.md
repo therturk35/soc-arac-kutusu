@@ -4,7 +4,7 @@ Bir SOC analistinin ve adli bilişim uzmanının ilk bakışta ihtiyaç duyduğu
 
 **Web Geliştirme; Yapay Zeka Eğitimi – proje ödevi · Tuğçe Ertürk**
 
-- Canlı adres: _yayınlanınca eklenecek_
+- Canlı adres: https://soc-arac-kutusu.vercel.app
 - Depo: https://github.com/therturk35/soc-arac-kutusu
 
 | Log analizi | Dosya bütünlüğü | E-posta başlığı |
